@@ -1,8 +1,5 @@
 # 🛒 E-Commerce Project Setup Guide
 
-Ye guide aapko step-by-step batata hai kaise **project database setup** kare aur ready-to-use products import kare.  
-
----
 
 ## 1️⃣ Requirements
 
@@ -47,8 +44,6 @@ Ye guide aapko step-by-step batata hai kaise **project database setup** kare aur
 
 
 ## 4 Verify Data
-
-MongoDB me check karne ke liye:
 
 use shopDB
 db.products.find().pretty()
