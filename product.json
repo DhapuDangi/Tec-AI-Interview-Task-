@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Men Denim Jacket",
+    "price": 2499,
+    "category": "men",
+    "image": "https://images.pexels.com/photos/428340/pexels-photo-428340.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "name": "Men Casual T-Shirt",
+    "price": 999,
+    "category": "men",
+    "image": "https://images.pexels.com/photos/277406/pexels-photo-277406.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "name": "Men Sneakers",
+    "price": 2199,
+    "category": "men",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "name": "Men Formal Pants",
+    "price": 1999,
+    "category": "men",
+    "image": "https://images.pexels.com/photos/428338/pexels-photo-428338.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "name": "Formal Shirt",
+    "price": 1799,
+    "category": "men",
+    "image": "https://images.pexels.com/photos/428346/pexels-photo-428346.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "name": "Men Leather Jacket",
+    "price": 3499,
+    "category": "men",
+    "image": "https://images.pexels.com/photos/428337/pexels-photo-428337.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "name": "Women Summer Dress",
+    "price": 1899,
+    "category": "women",
+    "image": "https://images.pexels.com/photos/1027134/pexels-photo-1027134.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "name": "Women Party Dress",
+    "price": 2999,
+    "category": "women",
+    "image": "https://images.pexels.com/photos/1709092/pexels-photo-1709092.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "name": "Women Skirt",
+    "price": 1299,
+    "category": "women",
+    "image": "https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "name": "Women Jacket",
+    "price": 2699,
+    "category": "women",
+    "image": "https://images.pexels.com/photos/2983467/pexels-photo-2983467.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "name": "Women Handbag",
+    "price": 2599,
+    "category": "women",
+    "image": "https://images.pexels.com/photos/2988636/pexels-photo-2988636.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "name": "Women Sneakers",
+    "price": 2199,
+    "category": "women",
+    "image": "https://images.pexels.com/photos/2984343/pexels-photo-2984343.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "name": "Women Sandals",
+    "price": 1499,
+    "category": "women",
+    "image": "https://images.pexels.com/photos/2529147/pexels-photo-2529147.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "name": "Gym Shorts",
+    "price": 1299,
+    "category": "gym",
+    "image": "https://images.pexels.com/photos/1552249/pexels-photo-1552249.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "name": "Gym Shoes",
+    "price": 1999,
+    "category": "gym",
+    "image": "https://images.pexels.com/photos/2988631/pexels-photo-2988631.jpeg?auto=compress&cs=tinysrgb&w=500"
+  },
+  {
+    "name": "Gym Hoodie",
+    "price": 1999,
+    "category": "gym",
+    "image": "https://images.pexels.com/photos/1001915/pexels-photo-1001915.jpeg?auto=compress&cs=tinysrgb&w=500"
+  }
+]
+
+
